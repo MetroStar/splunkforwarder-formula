@@ -1,6 +1,6 @@
-[![license](https://img.shields.io/github/license/plus3it/splunkforwarder-formula.svg)](./LICENSE)
-[![Travis-CI Build Status](https://travis-ci.org/plus3it/splunkforwarder-formula.svg)](https://travis-ci.org/plus3it/splunkforwarder-formula)
-[![AppVeyor Build Status](https://ci.appveyor.com/api/projects/status/github/plus3it/splunkforwarder-formula?branch=master&svg=true)](https://ci.appveyor.com/project/plus3it/splunkforwarder-formula)
+[![license](https://img.shields.io/github/license/MetroStar/splunkforwarder-formula.svg)](./LICENSE)
+[![Travis-CI Build Status](https://travis-ci.org/MetroStar/splunkforwarder-formula.svg)](https://travis-ci.org/MetroStar/splunkforwarder-formula)
+[![AppVeyor Build Status](https://ci.appveyor.com/api/projects/status/github/MetroStar/splunkforwarder-formula?branch=master&svg=true)](https://ci.appveyor.com/project/MetroStar/splunkforwarder-formula)
 
 # splunkforwarder-formula
 
